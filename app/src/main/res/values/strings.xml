@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spinner(Dropdown List)</string>
+
+    <string-array name="language">
+        <item>PHP</item>
+        <item>Java</item>
+        <item>Dot-Net</item>
+        <item>Kotlin</item>
+        <item>Flutter</item>
+        <item>Dark</item>
+    </string-array>
+
+</resources>
